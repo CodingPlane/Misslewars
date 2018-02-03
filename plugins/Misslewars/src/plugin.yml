@@ -1,0 +1,9 @@
+main: de.misslewars.main.Misslewars
+version: 0.0.1
+name: Misslewars
+author: Unknown
+
+commands:
+     settings:
+          description: Shows MySQL Information
+          usage: </command>
